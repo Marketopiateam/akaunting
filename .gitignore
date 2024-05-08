@@ -94,4 +94,4 @@ modules/*
 !modules/.gitkeep
 .laravelstatsrc
 .DS_Store
-node_modules
+
